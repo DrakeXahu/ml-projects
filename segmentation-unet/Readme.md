@@ -6,5 +6,6 @@
 - The elapsed time, IoU score and Loss will be noted.
 
 Check this <a href="https://colab.research.google.com/drive/1Rf7T3eovEqUwo_ZxACnLcnPfEnQQ0qSM?usp=sharing">colab</a> link if the notebook doesn't display.
+
 Dataset can be downloaded from <a href="https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid">here</a> 
 
